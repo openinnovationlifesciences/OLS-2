@@ -30,4 +30,6 @@ Our activities are funded by the efforts by our fundraising team, who are always
 
 Check out our webpage for upcoming OILS and partner events.
 
+[**Our website**](https://www.openinnovationlifesciences.com/)
+
 
