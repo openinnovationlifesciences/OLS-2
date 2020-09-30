@@ -28,8 +28,10 @@ We are also always looking for corporate partners, who want to engage with our t
 
 Our activities are funded by the efforts by our fundraising team, who are always looking for sponsors and ready to recieve your donations! ;)
 
-Check out our webpage for upcoming OILS and partner events.
+Check out [**our website**](https://www.openinnovationlifesciences.com/) for upcoming OILS and partner events.
 
-[**Our website**](https://www.openinnovationlifesciences.com/)
+https://www.openinnovationlifesciences.com/
+
+
 
 
