@@ -1,4 +1,4 @@
-# OLS-2_Open-Innovation-in-Life-Sciences
+# Open Innovation in Life Sciences Association
 
 Welcome to the Open Innovation in Life Sciences (OILS) Association! Thanks for dropping by!
 
