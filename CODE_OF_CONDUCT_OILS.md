@@ -4,8 +4,7 @@ We value the participation of each member and want everyone to have an enjoyable
 
 To make clear what is expected, all OILS members and event participants are required to conform to the following Code of Conduct. All OILS members will enforce this code.
 
-
-Our Community
+## Our Community
 Members of the OILS community are open, considerate, and respectful. Behaviours that reinforce these values contribute to a positive environment, and include:
 
 Being open. Members of the community are open to collaboration, whether it’s on PEPs, patches, problems, or otherwise.
@@ -19,11 +18,11 @@ Gracefully accepting constructive criticism. When we disagree, we are courteous 
 Using welcoming and inclusive language. We’re accepting of all who wish to take part in our activities, fostering an environment where anyone can participate and everyone can make a difference.
 
 
-Our Standards
+## Our Standards
 Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
 
-Inappropriate Behavior
+## Inappropriate Behavior
 Examples of unacceptable behavior by participants include:
 
 Harassment of any participants in any form
@@ -45,13 +44,13 @@ Other conduct that is inappropriate for a professional audience including people
 Community members asked to stop any inappropriate behavior are expected to comply immediately.
 
 
-Consequences
+## Consequences
 If a participant engages in behavior that violates this code of conduct, the OILS community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets. The full list of consequences for inappropriate behavior is listed in the Enforcement Procedures.
 
 Thank you for helping make this a welcoming, friendly community for everyone.
 
 
-Scope
+## Scope
 OILS Repository and Events
 
 This Code of Conduct applies to the following people of the OILS association:
@@ -91,11 +90,11 @@ comments made on the official event hashtag or panel hashtags
 OILS members will enforce this code throughout events and related activities.They will receive and evaluate incident reports from the online communities listed above and will suggest actions to take in response to a report. In cases where the administrators/moderators disagree on the suggested resolution for a report, the Executive Board will be notified and consulted for resolution.
 
 
-Contact Information
+## Contact Information
 If you believe that someone is violating the code of conduct, or have any other concerns, ease contact a member of the event staff immediately. They can be reached by emailing open[at]lifescience.uzh.ch. We value your feedback.
 
 
-License
+## License
 This Code of Conduct is licensed under the Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 Attributions
