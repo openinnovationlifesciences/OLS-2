@@ -30,6 +30,8 @@ Our activities are funded by the efforts by our fundraising team, who are always
 
 Check out [**our website**](https://www.openinnovationlifesciences.com/) for upcoming OILS and partner events.
 
+EMAIL: open[at]lifescience.uzh.ch
+
 https://www.openinnovationlifesciences.com/
 
 
