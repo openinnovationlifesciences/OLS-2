@@ -1,6 +1,4 @@
-# WORK IN PROGRESS ADAPTING FROM PYCON 2020 COC
-
-Code of Conduct
+# Code of Conduct
 
 We value the participation of each member and want everyone to have an enjoyable and fulfilling experience. Accordingly, all members are expected to show respect and courtesy to other members.
 
